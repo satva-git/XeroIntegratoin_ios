@@ -1,3 +1,5 @@
-# pkce-ios-swift-auth0server
+# pkce-ios-swift-oauth2
 
-[Implement OAuth2 PKCE in Swift and test with Auth0 authorization server](https://blog.eidinger.info/implement-oauth2-pkce-in-swift-and-test-with-auth0-authorization-server)
+Want to learn, how to create Native iOS Mobile Apps That Integrate Directly with the Xero API using oAuth 2.0 PKCE? read my blog here.  https://satvasolutions.com/latest-guide-on-oauth-2-0-integration-with-native-ios-app-using-pkce/
+
+
