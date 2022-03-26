@@ -21,9 +21,8 @@ class ViewController: UIViewController {
         let authorizeURL = "https://\(auth0domain)/authorize"
         let tokenURL = "https://identity.xero.com/connect/token"
         let clientId = "780A77878A6844D58A126F257DC8403B"
-//        let redirectUri = "\(bundleIdentifier)://\(auth0domain)/ios/\(bundleIdentifier)/callback"
-        let redirectUri = "https://xerointegration.satva.solutions"
-        
+        let redirectUri = "xeroIntegration://xerointegration.satva.solutions"
+    
         // Example-agnostic code
         let parameters = OAuth2PKCEParameters(authorizeUrl: authorizeURL,
                                         tokenUrl:tokenURL,
